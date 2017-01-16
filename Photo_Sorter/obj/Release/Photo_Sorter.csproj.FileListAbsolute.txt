@@ -1,0 +1,17 @@
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_Sorter\Photo_Sorter\bin\Release\Photo_Sorter.exe.config
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_Sorter\Photo_Sorter\bin\Release\Photo_Sorter.exe
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_Sorter\Photo_Sorter\bin\Release\Photo_Sorter.pdb
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_Sorter\Photo_Sorter\bin\Release\DotImaging.BitmapSourceInterop.dll
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_Sorter\Photo_Sorter\bin\Release\DotImaging.GenericImage.dll
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_Sorter\Photo_Sorter\bin\Release\DotImaging.Primitives2D.dll
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_Sorter\Photo_Sorter\bin\Release\PresentationCore.dll
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_Sorter\Photo_Sorter\bin\Release\PresentationFramework.dll
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_Sorter\Photo_Sorter\bin\Release\System.Design.dll
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_Sorter\Photo_Sorter\bin\Release\System.Xaml.dll
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_Sorter\Photo_Sorter\bin\Release\UIAutomationProvider.dll
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_Sorter\Photo_Sorter\bin\Release\WindowsBase.dll
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_Sorter\Photo_Sorter\bin\Release\DotImaging.BitmapSourceInterop.xml
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_Sorter\Photo_Sorter\bin\Release\DotImaging.GenericImage.xml
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_Sorter\Photo_Sorter\bin\Release\DotImaging.Primitives2D.xml
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_Sorter\Photo_Sorter\obj\Release\Photo_Sorter.exe
+C:\Users\Emris\Documents\Visual Studio 2013\Projects\Photo_Sorter\Photo_Sorter\obj\Release\Photo_Sorter.pdb
